@@ -1,7 +1,4 @@
-# Decoder By Nahid Afridy 👑
-# Decode file /- NA Cobra PYC 3.11
-# DECODE FILE VERSION - V.3.1.1
-# WHATSAPP - +8801923092304
+
 import os
 import time
 os.system("clear")
